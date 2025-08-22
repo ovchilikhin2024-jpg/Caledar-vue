@@ -1,4 +1,4 @@
-# Vue + Bun
+# Calendar-vue
 
 Проект на [Vue 3](https://vuejs.org/) с [Bun](https://bun.sh/).
 
